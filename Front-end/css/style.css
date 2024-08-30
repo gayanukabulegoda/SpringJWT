@@ -1,0 +1,24 @@
+/* General reset and common styles */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.btn {
+  padding: 15px 0;
+  font-size: 1.1em;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}

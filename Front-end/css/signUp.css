@@ -1,0 +1,28 @@
+form {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #343a40;
+}
+
+.form-control {
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  font-size: 1rem;
+  padding: 10px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}

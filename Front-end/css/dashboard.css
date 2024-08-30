@@ -1,0 +1,34 @@
+/* Header styling */
+header {
+  background-color: #343a40;
+  padding: 10px 20px;
+}
+
+header h5 {
+  font-size: 1.25rem;
+  color: #ffffff;
+}
+
+#exit-btn {
+  padding: 5px 15px;
+  font-size: 0.875rem;
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+#exit-btn:hover {
+  padding: 5px 15px;
+  font-size: 0.875rem;
+  color: #000000;
+  border-color: #ffffff;
+}
+
+/* Main content styling */
+#dashboard-content {
+  padding: 20px;
+}
+
+#dashboard-heading {
+  font-size: 2rem;
+  color: #343a40;
+}
